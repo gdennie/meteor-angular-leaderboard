@@ -1,4 +1,5 @@
-# create the home controller - use this array structure in order to deploy
+# create the home controller - wrap function invocation in array structure to support 
+# angular Dependency Injection and javascript minimization by conventional means.
 home = [
   "$scope"
   "$rootScope"
