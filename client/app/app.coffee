@@ -1,5 +1,5 @@
 # create the home controller - wrap function invocation in array structure to support 
-# angular Dependency Injection and javascript minimization by conventional means.
+# angular Dependency Injection with conventional javascript minimization.
 home = [
   "$scope"
   "$rootScope"
